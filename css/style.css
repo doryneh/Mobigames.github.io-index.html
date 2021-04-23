@@ -1,3 +1,11 @@
+@font-face {
+    font-family: ar-font;
+    src: url(../fonts/Cairo-ExtraLight.ttf); 
+  }
+  body {
+    direction: rtl;
+    font-family: ar-font !important; 
+  }
 header {
     background-image: url(../img/gard.jpg);
     background-size: cover;
